@@ -7,3 +7,4 @@ ifconfig
 pwd
 ls
 ls -lh
+mkdir aniket
