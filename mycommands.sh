@@ -5,6 +5,5 @@ lsblk
 fdisk -l
 ifconfig
 pwd
-ls
-ls -lh
 mkdir aniket
+ls -lh
