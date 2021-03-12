@@ -7,3 +7,4 @@ ifconfig
 pwd
 mkdir aniket
 ls -lh
+testing
